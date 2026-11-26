@@ -1,0 +1,15 @@
+Video Walkthroughs
+
+I also create video walkthroughs to demonstrate and explain the NorthStar Technologies network design.
+
+These videos provide a visual overview of the topology, explain key network components, and demonstrate how the different parts of the network work together.
+
+YouTube Channel: https://www.youtube.com/@IsaacSalmonsLABs
+
+Featured Examples:
+
+WLC Configuration: https://www.youtube.com/watch?v=42i4Syp92_w&t=3s
+
+Guest WiFi Security & Segmentation (ACLs): https://www.youtube.com/watch?v=jXxqQItwZ2c&t=19s
+
+DNS Configuration: https://www.youtube.com/watch?v=qxaaqE7frDY
